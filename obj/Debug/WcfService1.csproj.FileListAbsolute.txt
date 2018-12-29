@@ -1,0 +1,12 @@
+C:\Users\Mk148\Source\Repos\testyourvocabulary w81\WcfService1\bin\WcfService1.dll.config
+C:\Users\Mk148\Source\Repos\testyourvocabulary w81\WcfService1\bin\WcfService1.dll
+C:\Users\Mk148\Source\Repos\testyourvocabulary w81\WcfService1\bin\WcfService1.pdb
+C:\Users\Mk148\Source\Repos\testyourvocabulary w81\WcfService1\bin\Newtonsoft.Json.dll
+C:\Users\Mk148\Source\Repos\testyourvocabulary w81\WcfService1\bin\Soru.dll
+C:\Users\Mk148\Source\Repos\testyourvocabulary w81\WcfService1\bin\Soru.pdb
+C:\Users\Mk148\Source\Repos\testyourvocabulary w81\WcfService1\bin\Newtonsoft.Json.xml
+C:\Users\Mk148\Source\Repos\testyourvocabulary w81\WcfService1\obj\Debug\WcfService1.csprojAssemblyReference.cache
+C:\Users\Mk148\Source\Repos\testyourvocabulary w81\WcfService1\obj\Debug\WcfService1.csproj.CoreCompileInputs.cache
+C:\Users\Mk148\Source\Repos\testyourvocabulary w81\WcfService1\obj\Debug\WcfService1.csproj.CopyComplete
+C:\Users\Mk148\Source\Repos\testyourvocabulary w81\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\Mk148\Source\Repos\testyourvocabulary w81\WcfService1\obj\Debug\WcfService1.pdb

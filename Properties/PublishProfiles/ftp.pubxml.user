@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Bu dosya, Web projenizin yayımlama/paket işlemi tarafından kullanılıyor. MSBuild dosyasını düzenleyerek
+bu işlemin davranışını düzenleyebilirsiniz. Bununla ilgili daha fazla bilgi edinmek için https://go.microsoft.com/fwlink/?LinkID=208121 adresini ziyaret edin. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>ftp://hdtvapp.tk:21/checkyourenglishvocabulary/v1</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>03/24/2018 17:44:14</publishTime>
+    </File>
+    <File Include="bin/Soru.dll">
+      <publishTime>12/01/2018 15:18:24</publishTime>
+    </File>
+    <File Include="bin/WcfService1.dll">
+      <publishTime>12/01/2018 15:36:31</publishTime>
+    </File>
+    <File Include="kullaniciService1.svc">
+      <publishTime>11/30/2018 16:25:15</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>12/01/2018 15:36:47</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>12/01/2018 15:18:50</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
